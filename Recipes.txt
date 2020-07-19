@@ -4,6 +4,8 @@ cake
 pudding
 chicken curry 
 
+beans
+pizza
 
 
 thank you.
